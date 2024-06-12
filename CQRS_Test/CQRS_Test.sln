@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Test", "CQRS_Test\CQRS_Test.csproj", "{77EC8094-D5C8-4F8B-9407-363720659BE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Lib", "CQRS_Lib\CQRS_Lib.csproj", "{3C3CFEC2-D55D-43C1-951E-42FFC7EDBFB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77EC8094-D5C8-4F8B-9407-363720659BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EC8094-D5C8-4F8B-9407-363720659BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EC8094-D5C8-4F8B-9407-363720659BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EC8094-D5C8-4F8B-9407-363720659BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C3CFEC2-D55D-43C1-951E-42FFC7EDBFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3CFEC2-D55D-43C1-951E-42FFC7EDBFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3CFEC2-D55D-43C1-951E-42FFC7EDBFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3CFEC2-D55D-43C1-951E-42FFC7EDBFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FAD1BBF-EADB-405E-8720-E58DCF4C50D3}
+	EndGlobalSection
+EndGlobal

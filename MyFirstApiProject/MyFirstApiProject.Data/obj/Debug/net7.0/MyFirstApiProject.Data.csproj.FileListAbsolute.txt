@@ -1,0 +1,17 @@
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\bin\Debug\net7.0\MyFirstApiProject.Data.deps.json
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\bin\Debug\net7.0\MyFirstApiProject.Data.runtimeconfig.json
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\bin\Debug\net7.0\MyFirstApiProject.Data.dll
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\bin\Debug\net7.0\MyFirstApiProject.Data.pdb
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\bin\Debug\net7.0\MyFirstApiProject.Core.dll
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\bin\Debug\net7.0\MyFirstApiProject.Core.pdb
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\MyFirstApiProject.Data.csproj.AssemblyReference.cache
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\MyFirstApiProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\MyFirstApiProject.Data.AssemblyInfoInputs.cache
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\MyFirstApiProject.Data.AssemblyInfo.cs
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\MyFirstApiProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\MyFirstApiProject.Data.csproj.CopyComplete
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\MyFirstApiProject.Data.dll
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\refint\MyFirstApiProject.Data.dll
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\MyFirstApiProject.Data.pdb
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\MyFirstApiProject.Data.genruntimeconfig.cache
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Data\obj\Debug\net7.0\ref\MyFirstApiProject.Data.dll

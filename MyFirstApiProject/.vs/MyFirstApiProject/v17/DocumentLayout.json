@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{369EF26E-B593-4B07-B160-28C7CD76228D}|MyFirstApiProject.Data\\MyFirstApiProject.Data.csproj|d:\\c#\\asp.net_web\\myfirstapiproject\\myfirstapiproject.data\\mainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369EF26E-B593-4B07-B160-28C7CD76228D}|MyFirstApiProject.Data\\MyFirstApiProject.Data.csproj|solutionrelative:myfirstapiproject.data\\mainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369EF26E-B593-4B07-B160-28C7CD76228D}|MyFirstApiProject.Data\\MyFirstApiProject.Data.csproj|d:\\c#\\asp.net_web\\myfirstapiproject\\myfirstapiproject.data\\idatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369EF26E-B593-4B07-B160-28C7CD76228D}|MyFirstApiProject.Data\\MyFirstApiProject.Data.csproj|solutionrelative:myfirstapiproject.data\\idatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369EF26E-B593-4B07-B160-28C7CD76228D}|MyFirstApiProject.Data\\MyFirstApiProject.Data.csproj|d:\\c#\\asp.net_web\\myfirstapiproject\\myfirstapiproject.data\\dbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369EF26E-B593-4B07-B160-28C7CD76228D}|MyFirstApiProject.Data\\MyFirstApiProject.Data.csproj|solutionrelative:myfirstapiproject.data\\dbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81670571-BE18-472B-93AC-D4EE6CAD2DEF}|MyFirstApiProject.Core\\MyFirstApiProject.Core.csproj|d:\\c#\\asp.net_web\\myfirstapiproject\\myfirstapiproject.core\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81670571-BE18-472B-93AC-D4EE6CAD2DEF}|MyFirstApiProject.Core\\MyFirstApiProject.Core.csproj|solutionrelative:myfirstapiproject.core\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81670571-BE18-472B-93AC-D4EE6CAD2DEF}|MyFirstApiProject.Core\\MyFirstApiProject.Core.csproj|d:\\c#\\asp.net_web\\myfirstapiproject\\myfirstapiproject.core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81670571-BE18-472B-93AC-D4EE6CAD2DEF}|MyFirstApiProject.Core\\MyFirstApiProject.Core.csproj|solutionrelative:myfirstapiproject.core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81670571-BE18-472B-93AC-D4EE6CAD2DEF}|MyFirstApiProject.Core\\MyFirstApiProject.Core.csproj|d:\\c#\\asp.net_web\\myfirstapiproject\\myfirstapiproject.core\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81670571-BE18-472B-93AC-D4EE6CAD2DEF}|MyFirstApiProject.Core\\MyFirstApiProject.Core.csproj|solutionrelative:myfirstapiproject.core\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81670571-BE18-472B-93AC-D4EE6CAD2DEF}|MyFirstApiProject.Core\\MyFirstApiProject.Core.csproj|d:\\c#\\asp.net_web\\myfirstapiproject\\myfirstapiproject.core\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81670571-BE18-472B-93AC-D4EE6CAD2DEF}|MyFirstApiProject.Core\\MyFirstApiProject.Core.csproj|solutionrelative:myfirstapiproject.core\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainEntity.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Data\\MainEntity.cs",
+              "RelativeDocumentMoniker": "MyFirstApiProject.Data\\MainEntity.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Data\\MainEntity.cs",
+              "RelativeToolTip": "MyFirstApiProject.Data\\MainEntity.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:41:26.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Core\\Category.cs",
+              "RelativeDocumentMoniker": "MyFirstApiProject.Core\\Category.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Core\\Category.cs",
+              "RelativeToolTip": "MyFirstApiProject.Core\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:41:26.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBData.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Data\\DBData.cs",
+              "RelativeDocumentMoniker": "MyFirstApiProject.Data\\DBData.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Data\\DBData.cs",
+              "RelativeToolTip": "MyFirstApiProject.Data\\DBData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:41:26.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDatahelper.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Data\\IDatahelper.cs",
+              "RelativeDocumentMoniker": "MyFirstApiProject.Data\\IDatahelper.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Data\\IDatahelper.cs",
+              "RelativeToolTip": "MyFirstApiProject.Data\\IDatahelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:41:26.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Core\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MyFirstApiProject.Core\\OrderItem.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Core\\OrderItem.cs",
+              "RelativeToolTip": "MyFirstApiProject.Core\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:41:26.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Core\\Item.cs",
+              "RelativeDocumentMoniker": "MyFirstApiProject.Core\\Item.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Core\\Item.cs",
+              "RelativeToolTip": "MyFirstApiProject.Core\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:41:26.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Core\\Order.cs",
+              "RelativeDocumentMoniker": "MyFirstApiProject.Core\\Order.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\MyFirstApiProject\\MyFirstApiProject.Core\\Order.cs",
+              "RelativeToolTip": "MyFirstApiProject.Core\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:41:26.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

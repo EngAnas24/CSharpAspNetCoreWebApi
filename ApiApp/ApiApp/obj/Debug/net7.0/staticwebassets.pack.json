@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ApiApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ApiApp.props",
+      "PackagePath": "build\\ApiApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiApp.props",
+      "PackagePath": "buildMultiTargeting\\ApiApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ApiApp.props",
+      "PackagePath": "buildTransitive\\ApiApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

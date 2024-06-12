@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Asp.net_Web\\ApiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\data\\dbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\data\\dbdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\models\\mlitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\mlitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|d:\\c#\\asp.net_web\\apiapp\\apiapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D36D58A7-E9DE-41D6-8FF0-C915938868F9}|ApiApp\\ApiApp.csproj|solutionrelative:apiapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBData.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Data\\DBData.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Data\\DBData.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Data\\DBData.cs",
+              "RelativeToolTip": "ApiApp\\Data\\DBData.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:58:51.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\AppUser.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Models\\AppUser.cs",
+              "RelativeToolTip": "ApiApp\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:44:11.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T08:36:14.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiApp\\appsettings.json",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\appsettings.json",
+              "RelativeToolTip": "ApiApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T15:45:58.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\Order.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Models\\Order.cs",
+              "RelativeToolTip": "ApiApp\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:38:27.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Program.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Program.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Program.cs",
+              "RelativeToolTip": "ApiApp\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwA4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:08:51.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ApiApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwCwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:36:06.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\Item.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Models\\Item.cs",
+              "RelativeToolTip": "ApiApp\\Models\\Item.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:37:44.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Controllers\\ItemController.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "ApiApp\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAIBMwEIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:36:08.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ApiApp\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:59:40.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mlItem.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Models\\mlItem.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\mlItem.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Models\\mlItem.cs",
+              "RelativeToolTip": "ApiApp\\Models\\mlItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:37:54.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.html",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "ApiApp\\wwwroot\\Index.html",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\Index.html",
+              "RelativeToolTip": "ApiApp\\wwwroot\\Index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-23T12:41:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.js",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "ApiApp\\wwwroot\\app.js",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\app.js",
+              "RelativeToolTip": "ApiApp\\wwwroot\\app.js",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-23T12:41:32.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ApiApp\\Models\\Category.cs",
+              "ToolTip": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\Models\\Category.cs",
+              "RelativeToolTip": "ApiApp\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:39:44.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

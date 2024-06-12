@@ -1,0 +1,12 @@
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\obj\Debug\net7.0\CQRS_Lib.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\obj\Debug\net7.0\CQRS_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\obj\Debug\net7.0\CQRS_Lib.AssemblyInfoInputs.cache
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\obj\Debug\net7.0\CQRS_Lib.AssemblyInfo.cs
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\obj\Debug\net7.0\CQRS_Lib.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\bin\Debug\net7.0\CQRS_Lib.deps.json
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\bin\Debug\net7.0\CQRS_Lib.dll
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\bin\Debug\net7.0\CQRS_Lib.pdb
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\obj\Debug\net7.0\CQRS_Lib.dll
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\obj\Debug\net7.0\refint\CQRS_Lib.dll
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\obj\Debug\net7.0\CQRS_Lib.pdb
+D:\c#\Asp.net_Web\CQRS_Test\CQRS_Lib\obj\Debug\net7.0\ref\CQRS_Lib.dll

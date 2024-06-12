@@ -1,0 +1,11 @@
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\bin\Debug\net7.0\MyFirstApiProject.Core.deps.json
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\bin\Debug\net7.0\MyFirstApiProject.Core.dll
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\bin\Debug\net7.0\MyFirstApiProject.Core.pdb
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\obj\Debug\net7.0\MyFirstApiProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\obj\Debug\net7.0\MyFirstApiProject.Core.AssemblyInfoInputs.cache
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\obj\Debug\net7.0\MyFirstApiProject.Core.AssemblyInfo.cs
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\obj\Debug\net7.0\MyFirstApiProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\obj\Debug\net7.0\MyFirstApiProject.Core.dll
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\obj\Debug\net7.0\refint\MyFirstApiProject.Core.dll
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\obj\Debug\net7.0\MyFirstApiProject.Core.pdb
+C:\Users\anasa\source\repos\MyFirstApiProject\MyFirstApiProject.Core\obj\Debug\net7.0\ref\MyFirstApiProject.Core.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "P81HxF3lKDlH5y3GHaC3YhOga1oY3j/949TMmRL1l7U=",
+  "Source": "ApiApp",
+  "BasePath": "_content/ApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiApp\\wwwroot",
+      "Source": "ApiApp",
+      "ContentRoot": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\",
+      "BasePath": "_content/ApiApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\app.js",
+      "SourceId": "ApiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\",
+      "BasePath": "_content/ApiApp",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\Index.html",
+      "SourceId": "ApiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#\\Asp.net_Web\\ApiApp\\ApiApp\\wwwroot\\",
+      "BasePath": "_content/ApiApp",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}

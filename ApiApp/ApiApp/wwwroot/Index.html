@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Item Creation</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <form id="itemForm" action="AddItem" enctype="multipart/form-data">
+        <label for="itemName">Item Name:</label>
+        <input type="text" id="itemName" name="Name" required>
+        <br><br>
+        <label for="itemPrice">Price:</label>
+        <input type="number" step="0.01" id="itemPrice" name="Price" required>
+        <br><br>
+        <label for="itemNotes">Notes:</label>
+        <textarea id="itemNotes" name="Notes"></textarea>
+        <br><br>
+        <label for="itemImage">Image:</label>
+        <input type="file" id="itemImage" name="Image" accept="image/*" required>
+        <br><br>
+        <label for="categoriesDropdown">Category:</label>
+        <select id="categoriesDropdown" name="CategoryId" required>
+            <option value="">Select a Category</option>
+        </select>
+        <br><br>
+        <button type="submit">Create Item</button>
+    </form>
+
+    <script src="app.js"></script>
+</body>
+</html>
+
+        
